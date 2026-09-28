@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-09-25 18:55+0000\n"
+"PO-Revision-Date: 2026-09-28 08:46+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -65,7 +65,7 @@ msgstr "Origine riga carbonio"
 #. module: sustainability_purchase
 #: model:ir.model.fields,field_description:sustainability_purchase.field_purchase_order__carbon_line_origin_qty
 msgid "Carbon Line Origin Qty"
-msgstr "Qt.à origine riga carbonio"
+msgstr "Q.tà origine riga carbonio"
 
 #. module: sustainability_purchase
 #: model:ir.model.fields,field_description:sustainability_purchase.field_purchase_order__carbon_origin_child_ids
@@ -75,7 +75,7 @@ msgstr "Figlio origine carbonio"
 #. module: sustainability_purchase
 #: model:ir.model.fields,field_description:sustainability_purchase.field_purchase_order__carbon_origin_child_qty
 msgid "Carbon Origin Child Qty"
-msgstr "Qt.à figlio origine carbonio"
+msgstr "Q.tà figlio origine carbonio"
 
 #. module: sustainability_purchase
 #: model:ir.model.fields,field_description:sustainability_purchase.field_purchase_order_line__carbon_origin_json
@@ -106,7 +106,7 @@ msgstr "Calcolo iniziale carbonio per res.partner"
 #. module: sustainability_purchase
 #: model_terms:ir.ui.view,arch_db:sustainability_purchase.purchase_order_form
 msgid "Lock co2"
-msgstr "Blocco CO2"
+msgstr "Blocca CO2"
 
 #. module: sustainability_purchase
 #: model_terms:ir.ui.view,arch_db:sustainability_purchase.product_supplierinfo_form_view
